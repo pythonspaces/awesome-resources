@@ -16,3 +16,10 @@
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?irclickid=QzTTwr0zmxyNTusT-Tw62Ty2UkDQ8IzZq1rDUk0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)
 
 
+### Google Sponsored Python Courses for FREE
+1. Introduction to Python Programming 
+https://learndigital.withgoogle.com/digitalunlocked/course/introduction-to-python-programming  
+2. Programming for Everybody (Getting Started with Python)
+https://learndigital.withgoogle.com/digitalunlocked/course/programming-for-everybody-python  
+3. Python Basics 
+https://learndigital.withgoogle.com/digitalunlocked/course/python-basics 
