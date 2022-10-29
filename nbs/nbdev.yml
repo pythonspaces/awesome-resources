@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "awesome-resources"
+  site-url: "https://pythonspaces.github.io/awesome-resources"
+  description: "Awesome resources to Learn Python"
+  repo-branch: main
+  repo-url: "https://github.com/pythonspaces/awesome-resources"
