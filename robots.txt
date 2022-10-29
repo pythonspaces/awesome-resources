@@ -1,0 +1,1 @@
+Sitemap: https://pythonspaces.github.io/awesome-resources/sitemap.xml
